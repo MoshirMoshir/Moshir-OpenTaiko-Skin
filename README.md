@@ -8,7 +8,7 @@ Feel free to use, edit, or redistribute with credit preferred to be given `uwu`
 
 ## How to Install
 1. Download the zip either by clicking the green `code` button on the top right and clicking "download zip" or go to the [releases page](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin/releases) and download the version you want
-2. Extract the contents into your OpenTaiko Folder, if you are updating from an older release of this skin, ensure to delete the `Moshir's OpenTaiko Skin` folder from `System` first (you may instead opt to not delete the old skin and select `replace all` when prompted after copying the new release, but this may or may not result in errors)
+2. Extract the contents into your OpenTaiko Folder (excluding the README.md), if you are updating from an older release of this skin, ensure to delete the `Moshir's OpenTaiko Skin` folder from `System` first (you may instead opt to not delete the old skin and select `replace all` when prompted after copying the new release, but this may or may not result in errors)
 3. Launch Taiko and ensure Moshir's OpenTaiko Skin is selected in the settings
 4. Enjoy!
 

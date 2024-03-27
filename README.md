@@ -35,3 +35,4 @@ If Namco or asset owners have an issue with me distributing this skin or their a
 - あきら Ch for あきら Ch.'s OpenTaiko Nijiiro Skin Assets (Not distributed anymore, had to scrounge up from multiple sources)
 - The [OpenTaiko Team](https://github.com/0auBSQ/OpenTaiko) for Open World Memories Assets and SimpleStyle Assets that OpenTaiko ships with
 - [Myself](https://github.com/MoshirMoshir) as I add more of my own Assets
+- [Spriters Resource](https://www.spriters-resource.com/arcade/taikonotatsujin2020version/) for all used Assets

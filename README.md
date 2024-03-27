@@ -12,8 +12,20 @@ Feel free to use, edit, or redistribute with credit preferred to be given `uwu`
 3. Launch Taiko and ensure Moshir's OpenTaiko Skin is selected in the settings
 4. Enjoy!
 
+## FAQ
+1. What version does your skin support?
+> It will support whatever version I will be using (probably latest). I will put which version the skin uses in the release information as I publish them.
+2. Your skin does not work!
+> You are probably using a different version than what's supported, make sure you are using the correct release with your OpenTaiko version.
+> If it's not that, then idk, create an [issue inquire](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin/releases) or troubleshoot yourself.
+3. Will I get in trouble for using your skin (copyright infringement)
+> ¯\\\_(ツ)\_/¯, use at your own risk :p
+
+
 ## More Information
 If you encounter any errors or have any suggestions, please make a post in [issues](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin/releases)
+<br><br>
+If Namco or asset owners have an issue with me distributing this skin or their assets, please let me know and I will immediately make this repository private.
 
 ## Credit for all Art and Assets go to the following:
 - [Bandai Namco](https://taiko.namco-ch.net/taiko/en/) for all Characters and Assets from the original Taiko No Tatsujin Series
@@ -21,4 +33,3 @@ If you encounter any errors or have any suggestions, please make a post in [issu
 - あきら Ch for あきら Ch.'s OpenTaiko Nijiiro Skin Assets (Not distributed anymore, had to scrouge up from multiple sources)
 - The [OpenTaiko Team](https://github.com/0auBSQ/OpenTaiko) for Open World Memories Assets and SimpleStyle Assets that OpenTaiko ships with
 - [Myself](https://github.com/MoshirMoshir) as I add more of my own Assets
-

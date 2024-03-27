@@ -16,6 +16,7 @@ Feel free to use, edit, or redistribute with credit preferred to be given `uwu`
 If you encounter any errors or have any suggestions, please make a post in [issues](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin/releases)
 
 ## Credit for all Art and Assets go to the following:
+- [Bandai Namco](https://taiko.namco-ch.net/taiko/en/) for all Characters and Assets from the original Taiko No Tatsujin Series
 - [Takkkon](https://github.com/Takkkom/OpTk-StandardStyle/commits?author=Takkkom) for [OpTk StandardStyle](https://github.com/Takkkom/OpTk-StandardStyle) Assets
 - あきら Ch for あきら Ch.'s OpenTaiko Nijiiro Skin Assets (Not distributed anymore, had to scrouge up from multiple sources)
 - The [OpenTaiko Team](https://github.com/0auBSQ/OpenTaiko) for Open World Memories Assets and SimpleStyle Assets that OpenTaiko ships with

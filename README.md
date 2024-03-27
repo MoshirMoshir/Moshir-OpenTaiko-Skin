@@ -15,10 +15,12 @@ Feel free to use, edit, or redistribute with credit preferred to be given `uwu`
 ## FAQ
 1. What version does your skin support?
 > It will support whatever version I will be using (probably latest). I will put which version the skin uses in the release information as I publish them.
-2. Your skin does not work!
+2. What are all the `.kra` files?
+> Those are for my own convenience to create and edit my assets (I use krita cause photoshop $$$). Chances are if there is a .kra file, I made the corresponding .png asset.
+3. Your skin does not work!
 > You are probably using a different version than what's supported, make sure you are using the correct release with your OpenTaiko version.
 > If it's not that, then idk, create an [issue inquire](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin/releases) or troubleshoot yourself.
-3. Will I get in trouble for using your skin (copyright infringement)
+4. Will I get in trouble for using your skin (copyright infringement)
 > ¯\\\_(ツ)\_/¯, use at your own risk :p
 
 

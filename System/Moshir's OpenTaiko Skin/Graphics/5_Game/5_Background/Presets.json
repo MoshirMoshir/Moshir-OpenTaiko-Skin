@@ -1,0 +1,72 @@
+{
+	"Regular": {
+		"": {
+			"UP": ["0", "1"],
+			"DOWN": ["0"],
+			"DANCER": ["0"],
+			"FOOTER": ["0"],
+			"MOB": ["0"],
+			"RUNNER": ["0"]
+		},
+		"Dango": {
+			"UP": ["Dango"],
+			"DOWN": ["Dango"],
+			"DANCER": ["0"],
+			"FOOTER": ["0"],
+			"MOB": ["0"],
+			"RUNNER": ["0"]
+		},
+		"Clouds": {
+			"UP": ["Clouds"],
+			"DOWN": ["Clouds"],
+			"DANCER": ["0"],
+			"FOOTER": ["0"],
+			"MOB": ["0"],
+			"RUNNER": ["0"]
+		},
+		"Dashy": {
+			"UP": ["Dashy"],
+			"DOWN": ["Dashy"],
+			"DANCER": ["0"],
+			"FOOTER": ["0"],
+			"MOB": ["0"],
+			"RUNNER": ["0"]
+		},
+		"Touhou": {
+			"UP": ["0"],
+			"DOWN": ["0"],
+			"DANCER": ["0"],
+			"FOOTER": ["0"],
+			"MOB": ["0"],
+			"RUNNER": ["0"]
+		}
+	},
+	"Dan": {
+		"": {
+			"UP": ["0"]
+		},
+		"Summer": {
+			"UP": ["0"]
+		},
+		"Fall": {
+			"UP": ["0"]
+		},
+		"Winter": {
+			"UP": ["0"]
+		},
+		"Spring": {
+			"UP": ["0"]
+		}
+	},
+	"Tower": {
+		"": {
+			"UP": ["0"],
+			"DOWN": ["0"]
+		}
+	},
+	"AI": {
+		"": {
+			"UP": ["0"]
+		}
+	}
+}

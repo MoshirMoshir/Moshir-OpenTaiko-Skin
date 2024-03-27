@@ -32,6 +32,6 @@ If Namco or asset owners have an issue with me distributing this skin or their a
 ## Credit for all Art and Assets go to the following:
 - [Bandai Namco](https://taiko.namco-ch.net/taiko/en/) for all Characters and Assets from the original Taiko No Tatsujin Series
 - [Takkkon](https://github.com/Takkkom/OpTk-StandardStyle/commits?author=Takkkom) for [OpTk StandardStyle](https://github.com/Takkkom/OpTk-StandardStyle) Assets
-- あきら Ch for あきら Ch.'s OpenTaiko Nijiiro Skin Assets (Not distributed anymore, had to scrouge up from multiple sources)
+- あきら Ch for あきら Ch.'s OpenTaiko Nijiiro Skin Assets (Not distributed anymore, had to scrounge up from multiple sources)
 - The [OpenTaiko Team](https://github.com/0auBSQ/OpenTaiko) for Open World Memories Assets and SimpleStyle Assets that OpenTaiko ships with
 - [Myself](https://github.com/MoshirMoshir) as I add more of my own Assets

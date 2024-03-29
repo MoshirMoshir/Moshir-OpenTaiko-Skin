@@ -14,7 +14,7 @@ local timer = 0
 local speech = "Speech/en.png"
 local char = "Character/1.png"
 
-local center_pos = {1300, 600}
+local center_pos = {1300, 500}
 
 function clearIn(player)
 end

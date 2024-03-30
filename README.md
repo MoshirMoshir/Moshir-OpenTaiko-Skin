@@ -7,8 +7,9 @@ Feel free to use, edit, or redistribute with credit preferred to be given `uwu`
 > As I have little to no experience with OpenTaiko's structure and skin-making, I am relying on community skins for now while I begin designing new Assets to use in my official release.
 
 ## How to Install
-1. Download the zip either by clicking the green `code` button on the top right and clicking "download zip" or go to the [releases page](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin/releases) and download the version you want
-2. Extract the contents into your OpenTaiko Folder (excluding the README.md), if you are updating from an older release of this skin, ensure to delete the `Moshir's OpenTaiko Skin` folder from `System` first (you may instead opt to not delete the old skin and select `replace all` when prompted after copying the new release, but this may or may not result in errors)
+1. To get the latest version of the skin, download the zip by clicking the green `code` button on the top right and clicking "download zip".
+> You can also go to the [releases page](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin/releases) and download official releases or previous versions
+2. Extract the contents into your OpenTaiko Folder (excluding the README.md), if you are updating from an older release of this skin, ensure to delete the `Moshir's OpenTaiko Skin` folder from `System` first (you may instead opt to not delete the old skin and select `replace all` when prompted after copying the new release, but this has a small chance or causing errors in the skin)
 3. Launch Taiko and ensure Moshir's OpenTaiko Skin is selected in the settings
 4. Enjoy!
 

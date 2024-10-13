@@ -23,6 +23,7 @@ Feel free to use, edit, or redistribute with credit preferred to be given `uwu`
 > If it's not that, then idk, create an [issue inquire](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin/releases) or troubleshoot yourself.
 4. Will I get in trouble for using your skin (copyright infringement)
 > ¯\\\_(ツ)\_/¯, use at your own risk :p
+> But honestly if you're just using it for yourself and not streaming/recording, it wouldn't matter
 
 
 ## More Information
